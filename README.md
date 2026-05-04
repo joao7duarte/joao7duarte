@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- 🔭 I’m currently working at **EMBRAER**, developing a fullstack website that integrates data from multiple sources.  <br>- 🌱 I’m studying **Machine Learning** and exploring how **Deep Learning** works.  <br>- 🐳 I’m also learning about **Docker** and **CI/CD pipelines** to improve deployment workflows.  <br>- 🤝 I’m looking to collaborate on **open-source projects** and **backend services**.  <br>- 💻 Passionate about building scalable systems and contributing to the developer community.  <br>
+<br>- 🔭 I’m a Software Engineer Intern working at **EMBRAER**, developing a fullstack website that integrates data from multiple sources.  <br>- 🌱 I’m studying **Machine Learning** and exploring how **Deep Learning** works.  <br>- 🐳 I’m also learning about **Docker** and **CI/CD pipelines** to improve deployment workflows.  <br>- 🤝 I’m looking to collaborate on **open-source projects** and **backend services**.  <br>- 💻 Passionate about building scalable systems and contributing to the developer community.  <br>
 
 
 ## 🌐 Socials:
